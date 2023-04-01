@@ -49,24 +49,3 @@ elif b:
     print(str(a) + " Win!Congratulations!")
 else:
     print(str(a) + " Lose! Better luck next time!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
